@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import './quiz.dart';
 import './result.dart';
 
-void main() {
+void main() { 
   runApp(MyApp());
 }
 
