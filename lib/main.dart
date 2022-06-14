@@ -5,7 +5,6 @@ import './quiz.dart';
 import './result.dart';
 
 void main() { 
-  
   runApp(MyApp());
 }
 
